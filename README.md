@@ -38,7 +38,10 @@
 
 :trophy: Awards
 ---
-
+<pre>
+  2023.11.26   IIBC Start-up Invention Contest (한국인터넷 방송통신학회)   [단체상]
+  2024.12.19   Smart IT경진대회                                            [장려상]
+</pre>
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Yesol26&utm_content=farm">
